@@ -34,6 +34,73 @@ To run this project, you need a web browser installed on your computer.
 
 4. Customize the cloned project by modifying the HTML and CSS files to match your desired changes.
 
+## Project Structure
+
+The project structure is as follows:
+
+```
+frontend-clone/
+|   index.html
+|
++---css files
+|       general.css
+|       header.css
+|       sidebar.css
+|       video.css
+|
++---icons
+|       explore.svg
+|       hamburger-menu.svg
+|       home.svg
+|       library.svg
+|       notifications.svg
+|       originals.svg
+|       search.svg
+|       subscriptions.svg
+|       upload.svg
+|       voice-search-icon.svg
+|       youtube-apps.svg
+|       youtube-logo.svg
+|       youtube-music.svg
+|
++---Profilepic
+|       channel-1.jpeg
+|       channel-10.jpeg
+|       channel-11.jpeg
+|       channel-12.jpeg
+|       channel-2.jpeg
+|       channel-3.jpeg
+|       channel-4.jpeg
+|       channel-5.jpeg
+|       channel-6.jpeg
+|       channel-7.jpeg
+|       channel-8.jpeg
+|       channel-9.jpeg
+|       my-channel-main.jpeg
+|
+\---thumbnails
+        thumbnail-1.webp
+        thumbnail-10.webp
+        thumbnail-11.webp
+        thumbnail-12.webp
+        thumbnail-2.webp
+        thumbnail-3.webp
+        thumbnail-4.webp
+        thumbnail-5.webp
+        thumbnail-6.webp
+        thumbnail-7.webp
+        thumbnail-8.webp
+        thumbnail-9.webp
+```
+
+- `index.html`: The main HTML file that serves as the entry point for the project.
+
+- `css/`: Directory containing the CSS stylesheets.
+
+- `Profilepic/`: Directory containing all profile images used in the project.
+  
+- `icons/`: Directory containing all icons used in the project.
+
 ## Contributing
 
 Contributions to this project are welcome. 
